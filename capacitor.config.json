@@ -1,0 +1,6 @@
+{
+  "appId": "com.cb.grocerytracker",
+  "appName": "Grocery Tracker",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
